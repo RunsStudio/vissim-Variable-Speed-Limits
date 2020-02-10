@@ -14,7 +14,7 @@ date: 2020-1-22 10:56:23
 
 效果图如下：
 
-![NOVSL_2LaneClosed](README\NOVSL_2LaneClosed.png)
+![NOVSL_2LaneClosed](NOVSL_2LaneClosed.png)
 **封闭2车道+无VSL**
 
 
